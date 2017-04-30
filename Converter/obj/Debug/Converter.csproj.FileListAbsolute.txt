@@ -1,0 +1,10 @@
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\Converter\bin\Debug\Converter.dll
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\Converter\bin\Debug\Converter.pdb
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\Converter\obj\Debug\Converter.dll
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\Converter\obj\Debug\Converter.pdb
+G:\Selorms Work\ImageCompressor\Converter\bin\Debug\Converter.dll
+G:\Selorms Work\ImageCompressor\Converter\bin\Debug\Converter.pdb
+G:\Selorms Work\ImageCompressor\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+G:\Selorms Work\ImageCompressor\Converter\obj\Debug\Converter.dll
+G:\Selorms Work\ImageCompressor\Converter\obj\Debug\Converter.pdb

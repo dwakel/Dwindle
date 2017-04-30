@@ -1,0 +1,42 @@
+﻿<Window Name="Dwindle" x:Class="ImageCompressor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageCompressor"
+        mc:Ignorable="d"
+        Title="Dwindle" Icon="Assets/images.png"  Height="387.333" Width="525">
+    <Grid Background="Azure">
+        <Button  Margin="0,166,424.667,145" Click="CompressImage_Click">Compress Image</Button>
+
+        <Image  HorizontalAlignment="Left" VerticalAlignment="Top" Height="166" Width="187"/>
+       
+        <ListView Background="SeaShell" Name="ListImages" HorizontalAlignment="Left" Height="110" Margin="0,211,-0.333,-0.333" VerticalAlignment="Top" Width="519">
+            <ListView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel/>
+                </ItemsPanelTemplate>
+            </ListView.ItemsPanel>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox>
+                    <Image Width="100" Height="100" Source="{Binding imagename}"/>
+                    </CheckBox>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        <Button Name="Btn_UnselectAll" Content="Unselect All" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="23" Margin="0,0,9.667,0" RenderTransformOrigin="0.5,0.5" Width="83" Click="Btn_UnselectAll_Click"/>
+        <Button Name="Btn_SelectAll" Content="Select all" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="23" Margin="0,0,97.667,0" RenderTransformOrigin="0.5,0.5" Width="75" Click="Btn_SelectAll_Click" />
+        <Button Name="btn_GoToPictures" Content="GoTo Pictures" HorizontalAlignment="Left" Margin="99,166,0,0" VerticalAlignment="Top" Width="83" Height="40" Click="Btn_GoToPictures_Click" />
+       
+        <ListView Background="LightGray" Height="208" Margin="187,0,-0.333,0" VerticalAlignment="Top">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+    </Grid>
+</Window>

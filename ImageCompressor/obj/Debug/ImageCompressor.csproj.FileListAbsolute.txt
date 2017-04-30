@@ -1,0 +1,48 @@
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csprojResolveAssemblyReference.cache
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.g.cs
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\App.g.cs
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.cache
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.lref
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\bin\Debug\Converter.dll
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\bin\Debug\Converter.pdb
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.baml
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.g.resources
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Properties.Resources.resources
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.GenerateResource.Cache
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+C:\Users\selorm\Documents\Visual Studio 2017\Projects\C#\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
+L:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+L:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+L:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+L:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\Converter.dll
+L:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\Converter.pdb
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csprojResolveAssemblyReference.cache
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.g.cs
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\App.g.cs
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.cache
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.lref
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.baml
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.g.resources
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Properties.Resources.resources
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.GenerateResource.Cache
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+L:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
+G:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+G:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+G:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+G:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\Converter.dll
+G:\Selorms Work\ImageCompressor\ImageCompressor\bin\Debug\Converter.pdb
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csprojResolveAssemblyReference.cache
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.g.cs
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\App.g.cs
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.cache
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor_MarkupCompile.lref
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\MainWindow.baml
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.g.resources
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Properties.Resources.resources
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.GenerateResource.Cache
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+G:\Selorms Work\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
